@@ -1,12 +1,27 @@
-# React + Vite
+🧠 Memory Game
+📌 Project Details
+🎯 Aim
+    Build a real-time memory game.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+📝 Description
+    A modern memory game where users match pairs of cards. This game features:
+        Animated, responsive UI with a glassmorphism background
+        Multiple difficulty levels: Easy, Medium, and Hard
+        A moves counter to track the player's score
+        A reset button to restart the game anytime
+        Clean, interactive card flipping mechanics
+        Fully responsive design for both desktop and mobile
 
-Currently, two official plugins are available:
+    The project is developed using React, with modular components, CSS for styling, and JavaScript for game logic.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🛠️ Technologies Used
+    React – for UI and state management
+    HTML, CSS – for layout, glassmorphism effects, and responsive styling   
+    JavaScript – for core game logic and user interactions
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+📚 What I've Learnt
+    DOM manipulation and interactive UI building using React
+    Implementing core game logic with JavaScript    
+    Creating a responsive interface using advanced CSS techniques
+    Managing and updating React state for game flow and user actions
+    Utilizing effects and React hooks to improve user experience and animation
